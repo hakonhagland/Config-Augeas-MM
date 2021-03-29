@@ -1,0 +1,11 @@
+*.c
+*.o
+*.bs
+MANIFEST
+MYMETA.*
+Makefile
+Makefile.aperl
+blib/
+perl
+pm_to_blib
+wr_test/
